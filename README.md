@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 I'm Nhut, a passionate Data Scientist with a strong background in Data Analysis. My journey in the world of data began with a curiosity to uncover patterns and insights from complex datasets, and it has since evolved into a fulfilling career where I get to solve challenging problems and drive impactful decisions.
-
-- 🔭 I’m currently working on **Bosch**, where I focus on "developing predictive models to optimize business processes" or "leveraging data analytics to enhance user experience.".
   
 - 🌱 I’m currently learning **[New Tools/Technologies, e.g., "Deep Learning", "Cloud Computing", etc.]** to expand my skill set and stay at the forefront of the data science field.
 
