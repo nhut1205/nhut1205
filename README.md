@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/N5B19awm2YvwMwf8JE" width="378" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-art-arial-cardinal-bird-N5B19awm2YvwMwf8JE">via GIPHY</a></p>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpzd2FzbjZybHlnMm81a2U1cW5icngzaTd6Z2tsMjdyc2xhdDllcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PclfRPHc7yjX5tAI3A/giphy.gif">
 
 ## Hi there 👋
 
