@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/originals/0d/27/e0/0d27e04e0c6b197c32ebc61207276189.gif" />
 ## Hi there 👋
 
 I'm Nhut, a passionate Data Scientist with a strong background in Data Analysis. My journey in the world of data began with a curiosity to uncover patterns and insights from complex datasets, and it has since evolved into a fulfilling career where I get to solve challenging problems and drive impactful decisions.
