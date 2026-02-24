@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pham Minh Nhut</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<h3 align="center">Profile</h3>
-<a link="https://profile0.streamlit.app/"></a>
+<a href="https://profile0.streamlit.app/" align="center">Profile</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
